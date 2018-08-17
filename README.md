@@ -32,11 +32,11 @@ Rate-limiting is supported natively (use `NewWithRateLimit`). Set a rate limit o
 Get info about falcon9 rocket (check out the `client_test.go` file for more examples):
 
 ```go
-	c := New()
-	rocket, err := c.GetRocket("falcon9")
-	if err != nil {
-		log.Fatal(err)
-    }
+c := New()
+rocket, err := c.GetRocket("falcon9")
+if err != nil {
+    log.Fatal(err)
+}
 ```
 
 Result:
