@@ -1,4 +1,4 @@
-# spacex [![Build Status](https://travis-ci.org/orcaman/spacex.svg?branch=master)](https://travis-ci.org/orcaman/spacex) [![GoDoc](https://godoc.org/github.com/orcaman/spacex?status.svg)](https://godoc.org/github.com/orcaman/spacex)
+# spacex [![CircleCI](https://circleci.com/gh/orcaman/spacex.svg?style=svg)](https://circleci.com/gh/orcaman/spacex) [![GoDoc](https://godoc.org/github.com/orcaman/spacex?status.svg)](https://godoc.org/github.com/orcaman/spacex)
 
 Go client library for the SpaceX REST API developed at [r-spacex](https://github.com/r-spacex/SpaceX-API/blob/master/docs/home.md). Because Rockets are cool.
 
