@@ -1,6 +1,6 @@
 # spacex [![CircleCI](https://circleci.com/gh/orcaman/spacex.svg?style=svg)](https://circleci.com/gh/orcaman/spacex) [![GoDoc](https://godoc.org/github.com/orcaman/spacex?status.svg)](https://godoc.org/github.com/orcaman/spacex)
 
-Go client library for the SpaceX REST API developed at [r-spacex](https://github.com/r-spacex/SpaceX-API/blob/master/docs/home.md). Because Rockets are cool.
+Go client library for the SpaceX REST API developed at [r-spacex](https://github.com/r-spacex/SpaceX-API). Because Rockets are cool.
 
 ![Space Gophers Animated Gif](./images/space_gophers_animated.gif)
 
